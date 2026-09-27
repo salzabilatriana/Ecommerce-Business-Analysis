@@ -1,11 +1,11 @@
-# E-Commerce Public Dataset — Data Analysis Project
+# E-Commerce Business Analysis
 
 A data analysis project using the **E-Commerce Public Dataset (Olist Brazilian E-Commerce)**. This project covers the complete data analysis process (data wrangling, EDA, visualization, through to conclusions & recommendations) as well as an interactive dashboard built with **Streamlit**.
 
 ## Directory Structure
 
 ```
-submission
+E-Commerce Business Analysis
 ├───dashboard
 │   ├───main_data.csv       # cleaned & merged data, used by the dashboard
 │   └───dashboard.py        # Streamlit application
@@ -74,6 +74,4 @@ Once running, open your browser to the address shown in the terminal (default: `
 - Visualization comparing review scores for on-time vs. late orders, plus the top 10 regions with the most late orders.
 
 ## Data Source
-
 E-Commerce Public Dataset (Olist Brazilian E-Commerce), uploaded for a data analysis project submission.
-
